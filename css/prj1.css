@@ -3,6 +3,22 @@ h1 {
   border-bottom-color: black;
 }
 
+a:visited {
+  color: black;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: blue;
+}
+
+a {
+  text-decoration: none;
+}
+
 img {
   width: 263px;
   height: 400px;
@@ -31,4 +47,9 @@ td.category {
 
 li {
   list-style-type: none;
+}
+
+table {
+  padding-top: 100px;
+  padding-left: 120px;
 }
